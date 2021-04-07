@@ -1,0 +1,14 @@
+1. Escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años.
+
+ * `for`: Con 'for' le indicamos a una computadora mediante un programa, que realice una tarea mientras se cumpla una condición.
+	Tanto a realizar, como la condición es dada por la persona que realiza el programa.
+ * `&&`, `||`, `!`:
+	&& significa 'Y', y generalmente se utiliza para analizar el valor de verdad de dos expresiones o más.
+		Por ejemplo si digo: Los árboles son plantas 'Y' los perros son verdes; lo que estoy diciendo es mentira (falso),
+		ya que para que sea verdad ambas expresiones deben ser verdaderas.
+	|| significa 'O', y tiene la misma utilidad que el caso anterior.
+		Pero en este caso basta con que una sola de las expresiones sea verdadera para que todo sea verdadero.
+		Si digo: Los árboles son plantas 'O' los perros son verdes; lo que digo es verdad, porque se cumple una da las dos cosas.
+	! sivre para indicarle al programa que lo que sige debe cambiar su valor de verdad, es como agregar un 'NO' o 'ES MENTIRA QUE' al inicio de una oración.
+		Por ejemplo si digo: Los perros son verdes; es mentira, pero si lo niego al principio quedaría:
+		ES MENTIRA que los perros son verdes; y ahora lo que digo es verdad.

@@ -1,0 +1,8 @@
+1. Escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años.
+
+ * arrays: Son una colección de cosas que guarda un programa en la computadora;
+	dentro de variables (que anteriormente habíamos comparado con cajas).
+	Pero estas 'cosas' que la computadora puede guardar son palabras, números, valores de verdad (verdadero o falso),
+	o incluso otras colecciones de cosas.
+	Existe también un array vacío, que es un lugar (o caja) destinado a guardar cosas, pero que aún no tiene nada.
+	El programa puede hacer que la computadora reemplace algún elemento por otro, agregue uno distinto, o saque otro de la colección.

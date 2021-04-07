@@ -1,0 +1,17 @@
+1. Escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años.
+
+ * Variables: son espacios en la memoria de la computadora (algo así como cajas), que se reservan para guardar información.
+	Esta información pueden ser palabras, números, valores de verdadero o falso, o incluso estructuras más complejas;
+	pueden también estar no definidas (que sería como tener las cajas vacías).
+	El contenido de estos espacios puede cambiar mientras la computadora hace uso de ellas.
+ * Strings: Son cadenas de caracteres o letras, son palabras. Pueden contener también números, espacios y otros caracteres;
+	como por ejemplo arroba (@), una coma (,), etc. Existe un string vacío, el cual no tiene ningún elemento.
+	Le indicamos a la computadora que se trata de un string porque lo escribimos entre comillas (simples o dobles).
+ * Funciones (argumentos, `return`): Una función es algo que recibe información, la procesa y devuelve un resultado.
+	Podríamos compararla con una calculadora, que recibe números y operadores, realiza la cuenta y nos devuelve un resultado.
+	Lo que ingresamos se conoce como "argumentos", y el resultado que nos devuelve "return".
+ * Declaraciones `if`: Son expresiones que le pasamos al programa o computadora, en donde si se cumple una condición,
+	la computadora realizará lo que le indiquemos.
+ * Valores booleanos (`true`, `false`): Un valor booleano indica si algo que se dice es verdadero o falso.
+	Si es verdadero podemos decir que es 'true', por ejemplo: Los perros son animales, es verdadero (o 'true').
+	Si es falso podemos decir que es 'false', por ejemplo: Los perros son verdes, es falso (o 'false')
