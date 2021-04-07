@@ -1,0 +1,11 @@
+1. Escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años.
+
+ * `prototype`: Cuando lo que puede hacer un objeto, es heredado a objetos hijos, decimos que es un 'prototype'.
+    Por ejemplo, los mamíferos pueden caminar, respirar, comer, etc.
+    Entonces, un perro, que es un mamífero, también hereda todo lo que éste puede hacer,
+        y también puede caminar, respirar, comer, etc.
+ * _Constructors_ (de Clases): Un constructor es como un 'modelo' de donde podemos sacar 'objetos',
+    los cuales tendrán las características generales del 'molde', pero también algunas particulares.
+    Por ejemplo: tomamos como modelo a los mamíferos (respiran, caminan, comen), y de allí podemos sacar:
+        Perros: que también respiran, caminan, comen; pero tienen características que lo hacen un perro.
+        Gatos: que también respiran, caminan, comen; pero se diferencian de los gatos.

@@ -1,0 +1,5 @@
+1. Escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años.
+
+* Funciones Callback: Una función callback es aquella que pasamos como argumento (o entrada) de otra función.
+    Anteriormente dijimos que una función era algo que recibía información, la procesaba y daba un resultado.
+    Cuando la información (o argumento) que recibe una función es otra función, la llamamos 'callback'.

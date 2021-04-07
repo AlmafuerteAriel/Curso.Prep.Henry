@@ -1,0 +1,25 @@
+1. Escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años.
+
+ * Objetos: Los objetos son como listas, en donde cada elemento de la lista está conformado por:
+        un 'nombre, clave, título o rótulo' y un 'valor':
+    por ejemplo:
+        nombre: Ariel,
+        edad: 42,
+        hobbie: ajedrez
+    Los objetos describen 'cosas', como en el ejemplo lo describen a Ariel.
+ * Propiedades: Una propiedad es el conjunto del 'nombre, clave, título o rótulo' y su 'valor'.
+    Por ejemplo:
+        nombre: Ariel -> Es una propiedad
+        edad: 42 -> es otra propiedad
+    Podemos decir entonces que un objeto es un conjunto de estas propiedades.
+ * Métodos: Un método es una función (eso que recibía información o argumentos, la procesaba y daba un resultado);
+    pero que se encuentra formando parte de un objeto.
+    Un método describe algo que puede hacer el 'objeto'; por ejemplo 'Ariel' puede saludar, caminar, etc.
+    Cada acción que puede hacer el objeto se llama entonces un 'método'.
+ * Bucle `for…in`: 'for ...in' le indica al programa que 'recorra' todas las propiedades de un objeto.
+ * Notación de puntos vs notación de corchetes: Para hacer referencia a un 'valor' de una 'clave' de un 'objeto';
+    podemos hacerlo de dos formas:
+        Si por ejemplo queremos obtener la edad de Ariel, debemos 'buscarla' dentro del 'objeto' Ariel:
+        ariel.edad -> nos indica que queremos saber la 'edad' de 'Ariel'
+        ariel['edad'] -> es otra forma de indicar lo que estamos buscando: la edad de Ariel;
+            pero en este caso hacemos una búsqueda a través del 'string' edad.
