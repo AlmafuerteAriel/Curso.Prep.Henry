@@ -1,0 +1,34 @@
+body {
+    background-image: url("https://media.istockphoto.com/vectors/vector-seamless-pattern-with-trendy-icons-of-healthy-eco-fruits-vector-id511369158?b=1&k=6&m=511369158&s=612x612&w=0&h=VRAOdGzlLr2aSb9PG75bJZYT-su0NvEHPPayV9E5XE4=");
+    /*background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAPDw8PDw8VDw8NDw8PFQ8PDw8PDw8PFRUWFhUVFRUYHSggGBolHRUVITEhJSkrLi4uFx8zODMsNygtLisBCgoKDg0NFQ8PGysdHR0tLS0rLSswLS0tLS0tLS0tLS0tLS0tLS0rLS0rLS0tLS0tLS0tLS0rLS0tLS0tLS0tLf/AABEIASsAqAMBIgACEQEDEQH/xAAaAAEBAQEBAQEAAAAAAAAAAAAAAQIDBAcF/8QAJRABAQEBAAEBCQEBAQAAAAAAABESARMDAiExQVFhocHwgfGx/8QAGgEBAQADAQEAAAAAAAAAAAAAAAECAwQFBv/EABoRAQADAQEBAAAAAAAAAAAAAAABERITAlH/2gAMAwEAAhEDEQA/APogDtZAAAAAAAAAAAAAAAAAAAAAuepOpZcATpOllwBCFlwC56k6WXALnqQsuAM9J0suAJ0hZcAZ6TpZcAZ6Z6WXAE6uellwgToWXDuA0uMAAAAAAAAAAAAAAAAAAAAFyZTUMseviC5MlwY9fEFyZNQc/XxBcmTUHP18QXJk1Bz9fEFyZNQc/XxBcmTUHP18QXJk1Bj18QXJk1Bz9fEFyZNQY9fEFyGoOfr47ijke1SEUCkhFApBQKQUCkFApIKBSCgIRQKQUCkUAoFhGG4EFhDcCCwhuBBYQ3AgsIbgQWENwILCG4EFhDcCCwhuBBYQ3AgsQ3BboA822IAWABYAFgAWABYAFgAWABYAFgAWA6ZMox05jpz2TIacx0yZDTmOmTvslmnMdOeyZDTmOmTIacx0yZDTmOmSBpzHTJks05jpkhZpzHTIWaeiEBi0kTKgETKgJkigJFgAQgARMqAmVgAmVgAQgAmVAE1w1x5e+sd9T/HRwlLerXDXHl8i89X++KcJLenXDXHk8v8AfVd/j49+S8JLerXDXHl37/74Hk/P+04FvVvhvjy7nv8An/kPJ9f/AD3nAt6tcO+1x5fZ9v5fQ8n6+MOBb1a4a48vl+5z1DhJb1a4a48vlnz/AGnsepfx9DhJb16NceXyfo8n3n9+ThJb1a4a48u/v/w39/j/AHuOBb1a4PLz1A4SW/N8vTy9YH0GPPxrb8vf0ebrAY8/B0763U83WA5+fg35er5uuYc/Pwb8vV83XMMefg35enl6wGPPwb8vV83XMMefg3z1er5uuYY8/Bvzd+q+brmHPz8G/L08vWAx5+Dfm6MBz8/AhGoRbYaZg1As0zCNQhZpmEahCzTI0Qs0zCNQhZpmEahCzTMI1CFmmYRqELNMwjUIWaZg1As03kjQ1ua5ZysUC5ZhloC5ZyRoC5ZyRoC5ZyuVAuWcmWgsuWcrFAuWckaCy5SJloLLlIKBcrCNQjXpu5swjUIaXmzCNQhpObMI1CGjmzCNQNHNmEah3ho5swjUIaObMI1CGjmzCNQho5swjUIaXmzBqBo5umTLQ59S9LHlnJloNSY8s5MtBqTHlnJloNSnPyzky0GpXHlnJloNSnPyzky0GpXHlnJloNSY8s5MtBqTHlnJloNSnPyzkaDUnPyqNI59MkFF0IoJoEUXQBBNCKC6EFDQgoaURQ0ILA0giiaGoRYsce5S2YRSG5EhGoQ3JbMIsWG5GYRqJDclpCLA3IkIsIbkSEUhuS0hFhDciQikNyJBqBuRqJG4RgwtmEahAtmEahAtmEahAtmEaIFswjUIFswjUIFswjUIFswahAtmEahAtmDUQLdcGGxi12xkw2BbHPYMNgWxkw2BbGDLYFsYMtgWxgw2BbGDDYFsZMNgWxgw2BbGBsC3/9k=");
+*/
+}
+h1 {
+    color: darkslateblue;
+}
+.imagen {
+    width: 400px;
+}
+.divClass {
+    text-align: center;
+    background-color: white;
+    width: 610px;
+}
+#thirdDiv {
+    height: 500px; /* Con height: 400px -> se corta la segunda imagen */
+    width: 500px;
+    background-color: gainsboro;
+    padding: 50px;
+    margin-top: 10px;
+    border: 5px solid darkslateblue;
+    text-align: center;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+#floxBox {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
