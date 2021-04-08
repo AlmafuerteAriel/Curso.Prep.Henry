@@ -7,32 +7,68 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 /* Arrancaremos este ejercicio por vos: */
 #ejercicioUno {
-
+    display: block;
+    text-align: center;
 }
-
 
 /* Ejercicio 2: Posicionar el header */
 
 /* Acá va tu código */
-
-
+#ejercicioDos {
+    visibility: hidden; 
+    /* Utilizo visibility: hidden para respetar el flujo de objetos
+        y reservar el lugar para el título.
+        Con display: none se altera el posicionamiento del resto de los objetos */
+}
 
 /* Ejercicio 3: */
 
 /* Acá va tu código */
-
-
+#ejercicioTres {
+    position: relative;
+    top: 100px;
+    left: 200px;
+}
 
 /* Ejercicio 4: */
 
 /* Acá va tu código */
+#ejercicioCuatro {
+    position: fixed;
+    top: 0;
+    left: 0;
 
-
+    height: 110px;
+}
 
 /* Ejercicio 5: */
 
 /* Acá va tu código */
-
-
+#ejercicioCinco {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
 /* Ejercicio 6. */
+#ejercicioCinco span {
+    align-self: flex-end;
+    padding-right: 15px;
+}
+#ejercicioCinco img + span {
+    align-self: flex-start;
+}
+
+/* Ejercicio 7. */
+
+/* Acá va tu código */
+#ejercicioSiete {
+    display: flex;
+    align-items: center;
+}
+
+#elementoDos {
+    position: relative;
+    top: 15px;
+    left: 7px;
+}
